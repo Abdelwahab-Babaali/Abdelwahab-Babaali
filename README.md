@@ -42,7 +42,7 @@ Currently focused on learning Flutter  and building  projects to sharpen my skil
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelwahab-Babaali&show_icons=true&theme=tokyonight" height="180em"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahab-Babaali&layout=compact&theme=tokyonight" height="180em"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahab-Babaali&layout=compact&theme=tokyonight" height="180em" width="400em"  />
 
 </div>
 ---
